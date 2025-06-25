@@ -1,0 +1,3 @@
+I completed the Offensive Security Intro room on June 25, 2025, where I learned how to simulate an attack by hacking into a bank system. This hands-on experience gave me insight into how hackers identify and exploit vulnerabilities using various tools and commands. It was fascinating to understand the step-by-step process hackers follow and the importance of ethical hacking to improve security. I successfully completed all tasks and feel confident applying these foundational offensive security techniques.
+<img width="1440" alt="Screenshot 2025-06-25 at 6 07 32 PM" src="https://github.com/user-attachments/assets/10af61bd-ebb4-4dcb-8523-ad300ea9f823" />
+
